@@ -14,19 +14,19 @@ This workshop brings together researchers working on the theory, algorithms, and
 <div class="row">
 
 <div class="col-sm-4">
-<img src="/assets/img/speaker1.jpg" width="160"><br>
+<img src="/assets/img/lew.jpg" width="160"><br>
 <b>Thomas Lew</b><br>
 Toyota Research Institute
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/speaker1.jpg" width="160"><br>
+<img src="/assets/img/bonalli.jpg" width="160"><br>
 <b>Riccardo Bonalli</b><br>
 Université Paris-Saclay
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/speaker1.jpg" width="160"><br>
+<img src="/assets/img/lanzetti.jpg" width="160"><br>
 <b>Nicolas Lanzetti</b><br>
 California Institute of Technology
 </div>
