@@ -1,5 +1,5 @@
 ---
-layout: default # page
+layout: page
 permalink: /schedule/
 title: Schedule
 description: This workshop will be held at the European Control Conference (ECC) 2026. The program includes invited talks and a roundtable discussion on uncertainty-aware control. All times are in the local conference time zone.
@@ -10,7 +10,7 @@ nav_order: 2
 <br>
 
 <div>
-<table class="table" style="border-collapse:collapse">
+<table class="table">
 
 <tr class="header" style="background-color:rgb(215,215,215); border-bottom:1pt solid black;">
 <th style="width:20%">Time</th>
