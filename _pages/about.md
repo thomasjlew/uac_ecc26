@@ -91,3 +91,8 @@ The workshop focuses on uncertainty-aware methods for decision making and contro
 - Learning-based control and reinforcement learning  
 - Data-driven model predictive control  
 - Applications in robotics, autonomous systems, and energy systems
+
+## Schedule
+
+{% raw %}{% capture schedule_content %}{% include_relative schedule.md %}{% endcapture %}
+{{ schedule_content | markdownify }}{% endraw %}
