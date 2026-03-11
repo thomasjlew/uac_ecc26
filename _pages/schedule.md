@@ -6,104 +6,37 @@ description: This workshop will be held at the European Control Conference (ECC)
 nav: true
 nav_order: 2
 ---
-
-
-
-
-<div class="table-responsive" markdown="1">
-
-<table class="table table-sm table-borderless">
-  <thead>
-    <tr style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black;">
-      <th style="border-top-left-radius: 10px; width: 20%">Time</th>
-      <th style="width: 18%">Session</th>
-      <th style="width: 62%; border-top-right-radius: 10px;">Title & Speakers</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:rgb(240, 240, 240);">
-      <td>08:15 - 08:30</td>
-      <td>Opening</td>
-      <td>Introduction: <b>Thomas Lew</b> - <i>Uncertainty-Aware Control at the Limits</i></td>
-    </tr>
-    <tr>
-      <td>08:30 - 09:20</td>
-      <td>Invited Talk</td>
-      <td>
-      <b>Continuous Representation of some Neural Networks: a Control Perspective</b><br>
-      Christophe Prieur <i>(Université Grenoble Alpes)</i>
-      </td>
-    </tr>
-    <tr style="background-color:rgb(240, 240, 240);">
-      <td>09:20 - 09:50</td>
-      <td></td>
-      <td>Coffee Break</td>
-    </tr>
-    <tr>
-      <td>09:50 - 11:20</td>
-      <td>Roundtable</td>
-      <td>
-      Panel Discussion<br>
-      Christophe Prieur <i>(Université Grenoble Alpes)</i><br>
-      Dario Paccagnan <i>(Imperial College London)</i><br>
-      Sebastian Trimpe <i>(RWTH Aachen University)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>11:20 - 12:10</td>
-      <td>Invited Talk</td>
-      <td>
-      <b>Giorgia Ramponi</b> <i>(University of Zurich)</i>
-      </td>
-    </tr>
-    <tr style="background-color:rgb(240, 240, 240);">
-      <td>12:10 - 13:10</td>
-      <td></td>
-      <td>Lunch Break</td>
-    </tr>
-    <tr>
-      <td>13:10 - 14:00</td>
-      <td>Invited Talk</td>
-      <td>
-      <b>Pick-to-Learn for Systems and Control</b><br>
-      Dario Paccagnan <i>(Imperial College London)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>14:00 - 14:50</td>
-      <td>Invited Talk</td>
-      <td>
-      <b>Model Predictive Control for Uncertain Systems - Robust & Data-Driven Designs</b><br>
-      Johannes Kohler <i>(Imperial College London)</i>
-      </td>
-    </tr>
-    <tr style="background-color:rgb(240, 240, 240);">
-      <td>14:50 - 15:20</td>
-      <td></td>
-      <td>Coffee Break</td>
-    </tr>
-    <tr>
-      <td>15:20 - 16:10</td>
-      <td>Invited Talk</td>
-      <td>
-      <b>Learning Directly on Hardware: The Critical Role of Uncertainty</b><br>
-      Sebastian Trimpe <i>(RWTH Aachen University)</i>
-      </td>
-    </tr>
-    <tr>
-      <td>16:10 - 17:00</td>
-      <td>Invited Talk</td>
-      <td>
-      <b>Navigating Uncertainty in a Data-Rich World</b><br>
-      Licio Romao <i>(Technical University of Denmark)</i>
-      </td>
-    </tr>
-    <tr style="background-color:rgb(240, 240, 240);">
-      <td>17:00 - 17:30</td>
-      <td>Discussion</td>
-      <td>Closing Discussion</td>
-    </tr>
-  </tbody>
-</table>
-
+<div class="table-responsive">
+  <table class="table table-sm">
+    <thead>
+      <tr style="background-color: #d7d7d7; border-bottom: 2px solid black;">
+        <th style="width: 20%">Time</th>
+        <th style="width: 18%">Session</th>
+        <th style="width: 62%">Title & Speakers</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background-color: #f0f0f0;">
+        <td>08:15 - 08:30</td>
+        <td>Opening</td>
+        <td><b>Thomas Lew</b> — <i>Uncertainty-Aware Control at the Limits</i></td>
+      </tr>
+      <tr>
+        <td>08:30 - 09:20</td>
+        <td>Invited Talk</td>
+        <td><b>Christophe Prieur</b> (U. Grenoble Alpes)<br>Continuous Representation of Neural Networks</td>
+      </tr>
+      <tr style="background-color: #f0f0f0;">
+        <td>09:20 - 09:50</td>
+        <td>—</td>
+        <td>Coffee Break</td>
+      </tr>
+      <tr>
+        <td>09:50 - 11:20</td>
+        <td>Roundtable</td>
+        <td><b>Panel Discussion</b>: Prieur, Paccagnan, Trimpe</td>
+      </tr>
+      <!-- Add other rows following this pattern -->
+    </tbody>
+  </table>
 </div>
