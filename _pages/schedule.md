@@ -9,8 +9,10 @@ nav_order: 2
 
 <br>
 
+<!---
 <div>
-<!---<table class="table">--->
+<table class="table">--->
+<div class="table-responsive">
 
 <table class="table table-striped" style="table-layout: fixed; width: 100%;">
 
