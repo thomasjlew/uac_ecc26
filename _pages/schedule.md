@@ -10,7 +10,9 @@ nav_order: 2
 <br>
 
 <div>
-<table class="table">
+<!---<table class="table">--->
+
+<table class="table table-striped" style="table-layout: fixed; width: 100%;">
 
 <tr class="header" style="background-color:rgb(215,215,215); border-bottom:1pt solid black;">
 <th style="width:20%">Time</th>

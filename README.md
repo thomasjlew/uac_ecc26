@@ -3,7 +3,9 @@
 
 Control systems are increasingly deployed in high-uncertainty, high-stakes applications such as autonomous vehicles, robotics, and energy systems. As a result, uncertainty-aware control algorithms have gained significant interest, as they explicitly account for disturbances, model mismatch, and varying environments, enabling principled trade-offs between robustness and performance while ensuring reliability and efficiency.
 
-Motivated by the scale and complexity of modern applications, recent research has focused on extending these methods to increasingly challenging settings, including nonlinear and high-dimensional systems and risk-averse as well as distributionally robust problems, and on developing computationally efficient algorithms capable of real-time operation. At the same time, advances in learning-based control raise new questions about how uncertainty should be modeled, propagated, and exploited in safety-critical control systems.
+Motivated by the scale and complexity of modern applications, recent research has focused on extending these methods to increasingly challenging settings, including nonlinear and high-dimensional systems and risk-averse as well as distributionally robust problems, and on developing computationally efficient algorithms capable of real-time operation.
+
+At the same time, advances in learning-based control raise new questions about how uncertainty should be modeled, propagated, and exploited in safety-critical control systems.
 
 This workshop brings together researchers working on the theory, algorithms, and applications of uncertainty-aware control to discuss recent advances, current limitations, open challenges, and promising directions for future research.
 
