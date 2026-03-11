@@ -59,7 +59,7 @@ Imperial College London
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/koehler.jpg" height="200"><br>
+<img src="/assets/img/koehler_cropped.jpg" height="200"><br>
 <b>Johannes Kohler</b><br>
 Imperial College London
 </div>
