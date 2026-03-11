@@ -1,5 +1,5 @@
+# Uncertainty-Aware Control: Theory, Algorithms, and Applications
 ## ECC 2026 Workshop  
-### Uncertainty-Aware Control: Theory, Algorithms, and Applications
 
 Control systems are increasingly deployed in high-uncertainty, high-stakes applications such as autonomous vehicles, robotics, and energy systems. As a result, uncertainty-aware control algorithms have gained significant interest, as they explicitly account for disturbances, model mismatch, and varying environments, enabling principled trade-offs between robustness and performance while ensuring reliability and efficiency.
 
@@ -40,37 +40,37 @@ California Institute of Technology
 <div class="row">
 
 <div class="col-sm-4">
-<img src="/assets/img/speaker1.jpg" width="160"><br>
+<img src="/assets/img/prieur.jpg" width="160"><br>
 <b>Christophe Prieur</b><br>
 Université Grenoble Alpes
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/speaker1.jpg" width="160"><br>
+<img src="/assets/img/ramponi.jpg" width="160"><br>
 <b>Giorgia Ramponi</b><br>
 University of Zurich
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/speaker1.jpg" width="160"><br>
+<img src="/assets/img/paccagnan.jpg" width="160"><br>
 <b>Dario Paccagnan</b><br>
 Imperial College London
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/speaker1.jpg" width="160"><br>
+<img src="/assets/img/koehler.jpg" width="160"><br>
 <b>Johannes Kohler</b><br>
 Imperial College London
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/speaker1.jpg" width="160"><br>
+<img src="/assets/img/trimpe.jpeg" width="160"><br>
 <b>Sebastian Trimpe</b><br>
 RWTH Aachen University
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/speaker1.jpg" width="160"><br>
+<img src="/assets/img/romao.jpg" width="160"><br>
 <b>Licio Romao</b><br>
 Technical University of Denmark
 </div>
