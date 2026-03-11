@@ -8,25 +8,24 @@ Motivated by the scale and complexity of modern applications, recent research ha
 This workshop brings together researchers working on the theory, algorithms, and applications of uncertainty-aware control to discuss recent advances, current limitations, open challenges, and promising directions for future research.
 
 ---
-
 ## Organizers
 
 <div class="row">
 
 <div class="col-sm-4">
-<img src="/assets/img/lew.jpg" width="160"><br>
+<img src="/assets/img/lew.jpg" height="200"><br>
 <b>Thomas Lew</b><br>
 Toyota Research Institute
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/bonalli.jpg" width="160"><br>
+<img src="/assets/img/bonalli.jpg" height="200"><br>
 <b>Riccardo Bonalli</b><br>
 Université Paris-Saclay
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/lanzetti.jpg" width="160"><br>
+<img src="/assets/img/lanzetti.jpg" height="200"><br>
 <b>Nicolas Lanzetti</b><br>
 California Institute of Technology
 </div>
@@ -40,37 +39,37 @@ California Institute of Technology
 <div class="row">
 
 <div class="col-sm-4">
-<img src="/assets/img/prieur.jpg" width="160"><br>
+<img src="/assets/img/prieur.jpg" height="200"><br>
 <b>Christophe Prieur</b><br>
 Université Grenoble Alpes
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/ramponi.jpg" width="160"><br>
+<img src="/assets/img/ramponi.jpg" height="200"><br>
 <b>Giorgia Ramponi</b><br>
 University of Zurich
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/paccagnan.jpg" width="160"><br>
+<img src="/assets/img/paccagnan.jpg" height="200"><br>
 <b>Dario Paccagnan</b><br>
 Imperial College London
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/koehler.jpg" width="160"><br>
+<img src="/assets/img/koehler.jpg" height="200"><br>
 <b>Johannes Kohler</b><br>
 Imperial College London
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/trimpe.jpeg" width="160"><br>
+<img src="/assets/img/trimpe.jpeg" height="200"><br>
 <b>Sebastian Trimpe</b><br>
 RWTH Aachen University
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/romao.jpg" width="160"><br>
+<img src="/assets/img/romao.jpg" height="200"><br>
 <b>Licio Romao</b><br>
 Technical University of Denmark
 </div>
