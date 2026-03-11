@@ -21,7 +21,7 @@ nav_order: 2
 <tr class="header" style="background-color:rgb(240,240,240);">
 <td>8:15 – 8:30</td>
 <td></td>
-<td>Introduction — Thomas Lew (Toyota Research Institute)</td>
+<td>Introduction - Thomas Lew <i>(Toyota Research Institute)</i></td>
 </tr>
 
 <tr class="header">
