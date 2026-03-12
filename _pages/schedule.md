@@ -43,7 +43,7 @@ Continuous Representation of some Neural Networks: a Control Perspective</td>
 <td>9:50 – 11:20</td>
 <td>Roundtable</td>
 <td>
-Christophe Prieur</i><br>
+Christophe Prieur <i>(Université Grenoble Alpes)</i><br> 
 <!-- [Christophe Prieur](https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/) <i>(Université Grenoble Alpes)</i><br> -->
 Dario Paccagnan <i>(Imperial College London)</i><br>
 <!-- [Dario Paccagnan](https://www.doc.ic.ac.uk/~dp414/) <i>(Imperial College London)</i><br> -->
@@ -55,7 +55,7 @@ Sebastian Trimpe <i>(RWTH Aachen)</i>
 <tr class="header">
 <td>11:20 – 12:10</td>
 <td>Invited Talk</td>
-<td>Giorgia Ramponi</i></td>
+<td>Giorgia Ramponi <i>(University of Zurich)</i></td> 
 <!-- <td>[Giorgia Ramponi](https://sites.google.com/view/alpi-lab/giorgia-ramponi) <i>(University of Zurich)</i></td> -->
 </tr>
 
@@ -68,7 +68,7 @@ Sebastian Trimpe <i>(RWTH Aachen)</i>
 <tr class="header">
 <td>13:10 – 14:00</td>
 <td>Invited Talk</td>
-<td>Dario Paccagnan</i><br>
+<td>Dario Paccagnan <i>(Imperial College London)</i><br>
 <!-- <td>[Dario Paccagnan](https://www.doc.ic.ac.uk/~dp414/) <i>(Imperial College London)</i><br> -->
 Pick-to-Learn for Systems and Control</td>
 </tr>
@@ -76,7 +76,7 @@ Pick-to-Learn for Systems and Control</td>
 <tr class="header">
 <td>14:00 – 14:50</td>
 <td>Invited Talk</td>
-<td>Johannes Köhler</i><br>
+<td>Johannes Köhler <i>(Imperial College London)</i><br>
 <!-- <td>[Johannes Köhler](https://profiles.imperial.ac.uk/j.kohler) <i>(Imperial College London)</i><br> -->
 Model Predictive Control for Uncertain Systems — Robust & Data-Driven Designs</td>
 </tr>

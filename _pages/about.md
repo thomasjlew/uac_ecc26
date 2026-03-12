@@ -106,6 +106,7 @@ The workshop focuses on uncertainty-aware methods for decision making and contro
 
 ## Schedule
 
+
 <div>
 <table class="table" id="standings" style="border-collapse:collapse">
 <tr class="header" style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black;">
@@ -118,14 +119,14 @@ The workshop focuses on uncertainty-aware methods for decision making and contro
 <td>8:15 – 8:30</td>
 <td></td>
 <!-- <td>Introduction - [Thomas Lew](https://thomasjlew.github.io/) <i>(Toyota Research Institute)</i></td> -->
-<td>Introduction - Thomas Lew</i></td>
+<td>Introduction - Thomas Lew<i>(Toyota Research Institute)</i></td> 
 </tr>
 
 <tr class="header">
 <td>8:30 – 9:20</td>
 <td>Invited Talk</td>
 <!-- <td>[Christophe Prieur](https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/) <i>(Université Grenoble Alpes)</i><br> -->
-<td>Christophe Prieur</i><br>
+<td>Christophe Prieur <i>(Université Grenoble Alpes)</i><br>
 Continuous Representation of some Neural Networks: a Control Perspective</td>
 </tr>
 
@@ -139,7 +140,7 @@ Continuous Representation of some Neural Networks: a Control Perspective</td>
 <td>9:50 – 11:20</td>
 <td>Roundtable</td>
 <td>
-Christophe Prieur</i><br>
+Christophe Prieur <i>(Université Grenoble Alpes)</i><br> 
 <!-- [Christophe Prieur](https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/) <i>(Université Grenoble Alpes)</i><br> -->
 Dario Paccagnan <i>(Imperial College London)</i><br>
 <!-- [Dario Paccagnan](https://www.doc.ic.ac.uk/~dp414/) <i>(Imperial College London)</i><br> -->
@@ -151,7 +152,7 @@ Sebastian Trimpe <i>(RWTH Aachen)</i>
 <tr class="header">
 <td>11:20 – 12:10</td>
 <td>Invited Talk</td>
-<td>Giorgia Ramponi</i></td>
+<td>Giorgia Ramponi <i>(University of Zurich)</i></td> 
 <!-- <td>[Giorgia Ramponi](https://sites.google.com/view/alpi-lab/giorgia-ramponi) <i>(University of Zurich)</i></td> -->
 </tr>
 
@@ -164,7 +165,7 @@ Sebastian Trimpe <i>(RWTH Aachen)</i>
 <tr class="header">
 <td>13:10 – 14:00</td>
 <td>Invited Talk</td>
-<td>Dario Paccagnan</i><br>
+<td>Dario Paccagnan <i>(Imperial College London)</i><br>
 <!-- <td>[Dario Paccagnan](https://www.doc.ic.ac.uk/~dp414/) <i>(Imperial College London)</i><br> -->
 Pick-to-Learn for Systems and Control</td>
 </tr>
@@ -172,7 +173,7 @@ Pick-to-Learn for Systems and Control</td>
 <tr class="header">
 <td>14:00 – 14:50</td>
 <td>Invited Talk</td>
-<td>Johannes Köhler</i><br>
+<td>Johannes Köhler <i>(Imperial College London)</i><br>
 <!-- <td>[Johannes Köhler](https://profiles.imperial.ac.uk/j.kohler) <i>(Imperial College London)</i><br> -->
 Model Predictive Control for Uncertain Systems — Robust & Data-Driven Designs</td>
 </tr>
