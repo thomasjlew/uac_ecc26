@@ -22,14 +22,14 @@ nav_order: 2
 <td>8:15 – 8:30</td>
 <td></td>
 <!-- <td>Introduction - [Thomas Lew](https://thomasjlew.github.io/) <i>(Toyota Research Institute)</i></td> -->
-<td>Introduction - Thomas Lew</i></td>
+<td>Introduction - Thomas Lew<i>(Toyota Research Institute)</i></td> 
 </tr>
 
 <tr class="header">
 <td>8:30 – 9:20</td>
 <td>Invited Talk</td>
 <!-- <td>[Christophe Prieur](https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/) <i>(Université Grenoble Alpes)</i><br> -->
-<td>Christophe Prieur</i><br>
+<td>Christophe Prieur <i>(Université Grenoble Alpes)</i><br>
 Continuous Representation of some Neural Networks: a Control Perspective</td>
 </tr>
 
