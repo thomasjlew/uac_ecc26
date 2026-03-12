@@ -22,7 +22,7 @@ nav_order: 2
 <td>8:15 – 8:30</td>
 <td></td>
 <!-- <td>Introduction - [Thomas Lew](https://thomasjlew.github.io/) <i>(Toyota Research Institute)</i></td> -->
-<td>Introduction - Thomas Lew<i>(Toyota Research Institute)</i></td> 
+<td>Introduction - Thomas Lew <i>(Toyota Research Institute)</i></td> 
 </tr>
 
 <tr class="header">

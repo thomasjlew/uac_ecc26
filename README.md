@@ -119,7 +119,7 @@ The workshop focuses on uncertainty-aware methods for decision making and contro
 <td>8:15 – 8:30</td>
 <td></td>
 <!-- <td>Introduction - [Thomas Lew](https://thomasjlew.github.io/) <i>(Toyota Research Institute)</i></td> -->
-<td>Introduction - Thomas Lew<i>(Toyota Research Institute)</i></td> 
+<td>Introduction - Thomas Lew <i>(Toyota Research Institute)</i></td> 
 </tr>
 
 <tr class="header">
