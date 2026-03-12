@@ -16,19 +16,19 @@ This workshop brings together researchers working on the theory, algorithms, and
 
 <div class="col-sm-4">
 <img src="/assets/img/lew.jpg" height="200"><br>
-<b>Thomas Lew</b><br>
+<b>[Thomas Lew](https://thomasjlew.github.io/)</b><br>
 Toyota Research Institute
 </div>
 
 <div class="col-sm-4">
 <img src="/assets/img/bonalli.jpg" height="200"><br>
-<b>Riccardo Bonalli</b><br>
+<b>[Riccardo Bonalli](https://rbonalli.github.io/)</b><br>
 Université Paris-Saclay
 </div>
 
 <div class="col-sm-4">
 <img src="/assets/img/lanzetti.jpg" height="200"><br>
-<b>Nicolas Lanzetti</b><br>
+<b>[Nicolas Lanzetti](https://nicolaslanzetti.github.io/)</b><br>
 California Institute of Technology
 </div>
 
@@ -42,37 +42,37 @@ California Institute of Technology
 
 <div class="col-sm-4">
 <img src="/assets/img/prieur.jpg" height="200"><br>
-<b>Christophe Prieur</b><br>
+<b>[Christophe Prieur](https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/)</b><br>
 Université Grenoble Alpes
 </div>
 
 <div class="col-sm-4">
 <img src="/assets/img/ramponi.jpg" height="200"><br>
-<b>Giorgia Ramponi</b><br>
+<b>[Giorgia Ramponi](https://sites.google.com/view/alpi-lab/giorgia-ramponi)</b><br>
 University of Zurich
 </div>
 
 <div class="col-sm-4">
 <img src="/assets/img/paccagnan.jpg" height="200"><br>
-<b>Dario Paccagnan</b><br>
+<b>[Dario Paccagnan](https://www.doc.ic.ac.uk/~dp414/)</b><br>
 Imperial College London
 </div>
 
 <div class="col-sm-4">
 <img src="/assets/img/koehler.jpg" height="200"><br>
-<b>Johannes Kohler</b><br>
+<b>[Johannes Kohler](https://profiles.imperial.ac.uk/j.kohler)</b><br>
 Imperial College London
 </div>
 
 <div class="col-sm-4">
 <img src="/assets/img/trimpe.jpeg" height="200"><br>
-<b>Sebastian Trimpe</b><br>
+<b>[Sebastian Trimpe](https://www.dsme.rwth-aachen.de/cms/dsme/das-institut/team/~jlolt/prof-sebastian-trimpe/?allou=1)</b><br>
 RWTH Aachen University
 </div>
 
 <div class="col-sm-4">
 <img src="/assets/img/romao.jpg" height="200"><br>
-<b>Licio Romao</b><br>
+<b>[Licio Romao](https://licioromao.com/)</b><br>
 Technical University of Denmark
 </div>
 
