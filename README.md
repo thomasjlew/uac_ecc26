@@ -11,32 +11,6 @@ This workshop brings together researchers working on the theory, algorithms, and
 
 ---
 
-## Organizers
-
-<div class="row">
-
-<div class="col-sm-4">
-<img src="/assets/img/lew.jpg" height="200"><br>
-<b>[Thomas Lew](https://thomasjlew.github.io/)</b><br>
-Toyota Research Institute
-</div>
-
-<div class="col-sm-4">
-<img src="/assets/img/bonalli.jpg" height="200"><br>
-<b>[Riccardo Bonalli](https://rbonalli.github.io/)</b><br>
-Université Paris-Saclay
-</div>
-
-<div class="col-sm-4">
-<img src="/assets/img/lanzetti.jpg" height="200"><br>
-<b>[Nicolas Lanzetti](https://nicolaslanzetti.github.io/)</b><br>
-California Institute of Technology
-</div>
-
-</div>
-
----
-
 ## Invited Speakers
 
 <div class="row">
@@ -75,6 +49,32 @@ RWTH Aachen University
 <img src="/assets/img/romao.jpg" height="200"><br>
 <b>[Licio Romao](https://licioromao.com/)</b><br>
 Technical University of Denmark
+</div>
+
+</div>
+
+---
+
+## Organizers
+
+<div class="row">
+
+<div class="col-sm-4">
+<img src="/assets/img/lew.jpg" height="200"><br>
+<b>[Thomas Lew](https://thomasjlew.github.io/)</b><br>
+Toyota Research Institute
+</div>
+
+<div class="col-sm-4">
+<img src="/assets/img/bonalli.jpg" height="200"><br>
+<b>[Riccardo Bonalli](https://rbonalli.github.io/)</b><br>
+Université Paris-Saclay
+</div>
+
+<div class="col-sm-4">
+<img src="/assets/img/lanzetti.jpg" height="200"><br>
+<b>[Nicolas Lanzetti](https://nicolaslanzetti.github.io/)</b><br>
+California Institute of Technology
 </div>
 
 </div>
