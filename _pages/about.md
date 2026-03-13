@@ -1,9 +1,17 @@
+---
+layout: default
+permalink: /
+title: About
+description: ECC 2026 Workshop on Uncertainty-Aware Control.
+nav: false
+---
+
 # Uncertainty-Aware Control: Theory, Algorithms, and Applications
-## ECC 2026 Workshop  
+## ECC 2026 Workshop
 
 Control systems are increasingly deployed in high-uncertainty, high-stakes applications such as autonomous vehicles, robotics, and energy systems. As a result, uncertainty-aware control algorithms have gained significant interest, as they explicitly account for disturbances, model mismatch, and varying environments, enabling principled trade-offs between robustness and performance while ensuring reliability and efficiency.
 
-Motivated by the scale and complexity of modern applications, recent research has focused on extending these methods to increasingly challenging settings, including nonlinear and high-dimensional systems and risk-averse as well as distributionally robust problems, and on developing computationally efficient algorithms capable of real-time operation. 
+Motivated by the scale and complexity of modern applications, recent research has focused on extending these methods to increasingly challenging settings, including nonlinear and high-dimensional systems and risk-averse as well as distributionally robust problems, and on developing computationally efficient algorithms capable of real-time operation.
 
 At the same time, advances in learning-based control raise new questions about how uncertainty should be modeled, propagated, and exploited in safety-critical control systems.
 
@@ -17,22 +25,19 @@ This workshop brings together researchers working on the theory, algorithms, and
 
 <div class="col-sm-4">
 <img src="/assets/img/lew.jpg" height="200"><br>
-<b>Thomas Lew</b><br>
-<!-- <b>[Thomas Lew](https://thomasjlew.github.io/)</b><br> -->
+<b><a href="https://thomasjlew.github.io/">Thomas Lew</a></b><br>
 Toyota Research Institute
 </div>
 
 <div class="col-sm-4">
 <img src="/assets/img/bonalli.jpg" height="200"><br>
-<b>Riccardo Bonalli</b><br>
-<!-- <b>[Riccardo Bonalli](https://rbonalli.github.io/)</b><br> -->
+<b><a href="https://rbonalli.github.io/">Riccardo Bonalli</a></b><br>
 Université Paris-Saclay
 </div>
 
 <div class="col-sm-4">
 <img src="/assets/img/lanzetti.jpg" height="200"><br>
-<b>Nicolas Lanzetti</b><br>
-<!-- <b>[Nicolas Lanzetti](https://nicolaslanzetti.github.io/)</b><br> -->
+<b><a href="https://nicolaslanzetti.github.io/">Nicolas Lanzetti</a></b><br>
 California Institute of Technology
 </div>
 
@@ -46,43 +51,37 @@ California Institute of Technology
 
 <div class="col-sm-4">
 <img src="/assets/img/prieur.jpg" height="200"><br>
-<b>Christophe Prieur</b><br>
-<!-- <b>[Christophe Prieur](https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/)</b><br> -->
+<b><a href="https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/">Christophe Prieur</a></b><br>
 Université Grenoble Alpes
 </div>
 
 <div class="col-sm-4">
 <img src="/assets/img/ramponi.jpg" height="200"><br>
-<b>Giorgia Ramponi</b><br>
-<!-- <b>[Giorgia Ramponi](https://sites.google.com/view/alpi-lab/giorgia-ramponi)</b><br> -->
+<b><a href="https://sites.google.com/view/alpi-lab/giorgia-ramponi">Giorgia Ramponi</a></b><br>
 University of Zurich
 </div>
 
 <div class="col-sm-4">
 <img src="/assets/img/paccagnan.jpg" height="200"><br>
-<b>Dario Paccagnan</b><br>
-<!-- <b>[Dario Paccagnan](https://www.doc.ic.ac.uk/~dp414/)</b><br> -->
+<b><a href="https://www.doc.ic.ac.uk/~dp414/">Dario Paccagnan</a></b><br>
 Imperial College London
 </div>
 
 <div class="col-sm-4">
 <img src="/assets/img/koehler.jpg" height="200"><br>
-<b>Johannes Köhler</b><br>
-<!-- <b>[Johannes Köhler](https://profiles.imperial.ac.uk/j.kohler)</b><br> -->
+<b><a href="https://profiles.imperial.ac.uk/j.kohler">Johannes Köhler</a></b><br>
 Imperial College London
 </div>
 
 <div class="col-sm-4">
 <img src="/assets/img/trimpe.jpeg" height="200"><br>
-<b>Sebastian Trimpe</b><br>
-<!-- <b>[Sebastian Trimpe](https://www.dsme.rwth-aachen.de/cms/dsme/das-institut/team/~jlolt/prof-sebastian-trimpe/?allou=1)</b><br> -->
+<b><a href="https://www.dsme.rwth-aachen.de/cms/dsme/das-institut/team/~jlolt/prof-sebastian-trimpe/?allou=1">Sebastian Trimpe</a></b><br>
 RWTH Aachen University
 </div>
 
 <div class="col-sm-4">
 <img src="/assets/img/romao.jpg" height="200"><br>
-<b>Licio Romao</b><br>
-<!-- <b>[Licio Romao](https://licioromao.com/)</b><br> -->
+<b><a href="https://licioromao.com/">Licio Romao</a></b><br>
 Technical University of Denmark
 </div>
 
@@ -94,12 +93,12 @@ Technical University of Denmark
 
 The workshop focuses on uncertainty-aware methods for decision making and control, including:
 
-- Robust, stochastic, risk-averse, and distributionally robust control  
-- Optimal control and model predictive control  
-- Reachability analysis  
-- Learning-based uncertainty modeling (Gaussian processes, Bayesian deep learning, diffusion models)  
-- Learning-based control and reinforcement learning  
-- Data-driven model predictive control  
+- Robust, stochastic, risk-averse, and distributionally robust control
+- Optimal control and model predictive control
+- Reachability analysis
+- Learning-based uncertainty modeling (Gaussian processes, Bayesian deep learning, diffusion models)
+- Learning-based control and reinforcement learning
+- Data-driven model predictive control
 - Applications in robotics, autonomous systems, and energy systems
 
 ---
@@ -118,15 +117,13 @@ The workshop focuses on uncertainty-aware methods for decision making and contro
 <tr class="header" style="background-color:rgb(240,240,240);">
 <td>8:15 – 8:30</td>
 <td></td>
-<!-- <td>Introduction - [Thomas Lew](https://thomasjlew.github.io/) <i>(Toyota Research Institute)</i></td> -->
-<td>Introduction - Thomas Lew<i>(Toyota Research Institute)</i></td> 
+<td>Introduction - <a href="https://thomasjlew.github.io/">Thomas Lew</a> <i>(Toyota Research Institute)</i></td>
 </tr>
 
 <tr class="header">
 <td>8:30 – 9:20</td>
 <td>Invited Talk</td>
-<!-- <td>[Christophe Prieur](https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/) <i>(Université Grenoble Alpes)</i><br> -->
-<td>Christophe Prieur <i>(Université Grenoble Alpes)</i><br>
+<td><a href="https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/">Christophe Prieur</a> <i>(Université Grenoble Alpes)</i><br>
 Continuous Representation of some Neural Networks: a Control Perspective</td>
 </tr>
 
@@ -140,20 +137,16 @@ Continuous Representation of some Neural Networks: a Control Perspective</td>
 <td>9:50 – 11:20</td>
 <td>Roundtable</td>
 <td>
-Christophe Prieur <i>(Université Grenoble Alpes)</i><br> 
-<!-- [Christophe Prieur](https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/) <i>(Université Grenoble Alpes)</i><br> -->
-Dario Paccagnan <i>(Imperial College London)</i><br>
-<!-- [Dario Paccagnan](https://www.doc.ic.ac.uk/~dp414/) <i>(Imperial College London)</i><br> -->
-Sebastian Trimpe <i>(RWTH Aachen)</i>
-<!-- [Sebastian Trimpe](https://www.dsme.rwth-aachen.de/cms/dsme/das-institut/team/~jlolt/prof-sebastian-trimpe/?allou=1) <i>(RWTH Aachen)</i> -->
+<a href="https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/">Christophe Prieur</a> <i>(Université Grenoble Alpes)</i><br>
+<a href="https://www.doc.ic.ac.uk/~dp414/">Dario Paccagnan</a> <i>(Imperial College London)</i><br>
+<a href="https://www.dsme.rwth-aachen.de/cms/dsme/das-institut/team/~jlolt/prof-sebastian-trimpe/?allou=1">Sebastian Trimpe</a> <i>(RWTH Aachen)</i>
 </td>
 </tr>
 
 <tr class="header">
 <td>11:20 – 12:10</td>
 <td>Invited Talk</td>
-<td>Giorgia Ramponi <i>(University of Zurich)</i></td> 
-<!-- <td>[Giorgia Ramponi](https://sites.google.com/view/alpi-lab/giorgia-ramponi) <i>(University of Zurich)</i></td> -->
+<td><a href="https://sites.google.com/view/alpi-lab/giorgia-ramponi">Giorgia Ramponi</a> <i>(University of Zurich)</i></td>
 </tr>
 
 <tr class="header" style="background-color:rgb(240,240,240);">
@@ -165,16 +158,14 @@ Sebastian Trimpe <i>(RWTH Aachen)</i>
 <tr class="header">
 <td>13:10 – 14:00</td>
 <td>Invited Talk</td>
-<td>Dario Paccagnan <i>(Imperial College London)</i><br>
-<!-- <td>[Dario Paccagnan](https://www.doc.ic.ac.uk/~dp414/) <i>(Imperial College London)</i><br> -->
+<td><a href="https://www.doc.ic.ac.uk/~dp414/">Dario Paccagnan</a> <i>(Imperial College London)</i><br>
 Pick-to-Learn for Systems and Control</td>
 </tr>
 
 <tr class="header">
 <td>14:00 – 14:50</td>
 <td>Invited Talk</td>
-<td>Johannes Köhler <i>(Imperial College London)</i><br>
-<!-- <td>[Johannes Köhler](https://profiles.imperial.ac.uk/j.kohler) <i>(Imperial College London)</i><br> -->
+<td><a href="https://profiles.imperial.ac.uk/j.kohler">Johannes Köhler</a> <i>(Imperial College London)</i><br>
 Model Predictive Control for Uncertain Systems — Robust & Data-Driven Designs</td>
 </tr>
 
@@ -187,16 +178,14 @@ Model Predictive Control for Uncertain Systems — Robust & Data-Driven Designs<
 <tr class="header">
 <td>15:20 – 16:10</td>
 <td>Invited Talk</td>
-<td>Sebastian Trimpe <i>(RWTH Aachen)</i><br>
-<!-- <td>[Sebastian Trimpe](https://www.dsme.rwth-aachen.de/cms/dsme/das-institut/team/~jlolt/prof-sebastian-trimpe/?allou=1) <i>(RWTH Aachen)</i><br> -->
+<td><a href="https://www.dsme.rwth-aachen.de/cms/dsme/das-institut/team/~jlolt/prof-sebastian-trimpe/?allou=1">Sebastian Trimpe</a> <i>(RWTH Aachen)</i><br>
 Learning Directly on Hardware: The Critical Role of Uncertainty</td>
 </tr>
 
 <tr class="header">
 <td>16:10 – 17:00</td>
 <td>Invited Talk</td>
-<td>Licio Romao <i>(Technical University of Denmark)</i><br>
-<!-- <td>[Licio Romao](https://licioromao.com/) <i>(Technical University of Denmark)</i><br> -->
+<td><a href="https://licioromao.com/">Licio Romao</a> <i>(Technical University of Denmark)</i><br>
 Navigating Uncertainty in a Data-Rich World</td>
 </tr>
 
