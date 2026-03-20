@@ -150,8 +150,8 @@ Continuous Representation of some Neural Networks: a Control Perspective</td>
 <tr class="header">
 <td>13:10 – 14:00</td>
 <td>Invited Talk</td>
-<td>[Dario Paccagnan](https://www.doc.ic.ac.uk/~dp414/) <i>(Imperial College London)</i><br>
-Pick-to-Learn for Systems and Control</td>
+<td>[Sebastian Trimpe](https://www.dsme.rwth-aachen.de/cms/dsme/das-institut/team/~jlolt/prof-sebastian-trimpe/?allou=1) <i>(RWTH Aachen)</i><br>
+Learning Directly on Hardware: The Critical Role of Uncertainty</td>
 </tr>
 
 <tr class="header">
@@ -170,8 +170,8 @@ Model Predictive Control for Uncertain Systems — Robust & Data-Driven Designs<
 <tr class="header">
 <td>15:20 – 16:10</td>
 <td>Invited Talk</td>
-<td>[Sebastian Trimpe](https://www.dsme.rwth-aachen.de/cms/dsme/das-institut/team/~jlolt/prof-sebastian-trimpe/?allou=1) <i>(RWTH Aachen)</i><br>
-Learning Directly on Hardware: The Critical Role of Uncertainty</td>
+<td>[Dario Paccagnan](https://www.doc.ic.ac.uk/~dp414/) <i>(Imperial College London)</i><br>
+Pick-to-Learn for Systems and Control</td>
 </tr>
 
 <tr class="header">
