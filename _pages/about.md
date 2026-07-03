@@ -30,9 +30,9 @@ Université Grenoble Alpes
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/ramponi.jpg" height="200"><br>
-<b><a href="https://sites.google.com/view/alpi-lab/giorgia-ramponi" target="_blank">Giorgia Ramponi</a></b><br>
-University of Zurich
+<img src="/assets/img/saverio.jpg" height="200"><br>
+<b><a href="https://www.bsaver.io/" target="_blank">Saverio Bolognani</a></b><br>
+ETH Zurich
 </div>
 
 <div class="col-sm-4">
@@ -117,7 +117,7 @@ The workshop focuses on uncertainty-aware methods for decision making and contro
 <tr class="header" style="background-color:rgb(240,240,240);">
 <td>8:45 – 9:00</td>
 <td></td>
-<td>Introduction - <a href="https://thomasjlew.github.io/" target="_blank">Thomas Lew</a> <i>(Toyota Research Institute)</i></td>
+<td>Introduction</td>
 </tr>
 
 <tr class="header">
@@ -136,7 +136,7 @@ Continuous Representation of some Neural Networks: a Control Perspective</td>
 <tr class="header">
 <td>10:45 – 11:45</td>
 <td>Invited Talk</td>
-<td><a href="https://sites.google.com/view/alpi-lab/giorgia-ramponi" target="_blank">Giorgia Ramponi</a> <i>(University of Zurich)</i></td>
+<td><a href="https://www.bsaver.io/" target="_blank">Saverio Bolognani</a> <i>(ETH Zurich)</i></td>
 </tr>
 
 <tr class="header" style="background-color:rgb(240,240,240);">

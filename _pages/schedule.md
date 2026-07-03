@@ -21,7 +21,7 @@ nav_order: 2
 <tr class="header" style="background-color:rgb(240,240,240);">
 <td>8:45 – 9:00</td>
 <td></td>
-<td>Introduction - <a href="https://thomasjlew.github.io/" target="_blank">Thomas Lew</a> <i>(Toyota Research Institute)</i></td>
+<td>Introduction</td>
 </tr>
 
 <tr class="header">
@@ -40,7 +40,7 @@ Continuous Representation of some Neural Networks: a Control Perspective</td>
 <tr class="header">
 <td>10:45 – 11:45</td>
 <td>Invited Talk</td>
-<td><a href="https://sites.google.com/view/alpi-lab/giorgia-ramponi" target="_blank">Giorgia Ramponi</a> <i>(University of Zurich)</i></td>
+<td><a href="https://www.bsaver.io/" target="_blank">Saverio Bolognani</a> <i>(ETH Zurich)</i></td>
 </tr>
 
 <tr class="header" style="background-color:rgb(240,240,240);">
