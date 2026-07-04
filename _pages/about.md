@@ -7,7 +7,8 @@ nav: false
 ---
 
 # Uncertainty-Aware Control: Theory, Algorithms, and Applications
-## ECC 2026 Workshop
+## ECC 2026 Workshop - July 7, 2026
+### Location: Arna 2
 
 Control systems are increasingly deployed in high-uncertainty, high-stakes applications such as autonomous vehicles, robotics, and energy systems. As a result, uncertainty-aware control algorithms have gained significant interest, as they explicitly account for disturbances, model mismatch, and varying environments, enabling principled trade-offs between robustness and performance while ensuring reliability and efficiency.
 
@@ -105,6 +106,7 @@ The workshop focuses on uncertainty-aware methods for decision making and contro
 
 ## Schedule
 
+### Location: Arna 2
 
 <div>
 <table class="table" id="standings" style="border-collapse:collapse">
